@@ -1,0 +1,5 @@
+npm i dotenv
+
+npm i env-var > Variables de tipo Puerto
+
+npm i express > instalar servidor
